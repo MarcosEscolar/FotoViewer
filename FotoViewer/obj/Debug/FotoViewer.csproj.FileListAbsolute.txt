@@ -1,0 +1,10 @@
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\bin\Debug\FotoViewer.exe.config
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\bin\Debug\FotoViewer.exe
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\bin\Debug\FotoViewer.pdb
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csproj.AssemblyReference.cache
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.Form1.resources
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.Properties.Resources.resources
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csproj.GenerateResource.cache
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csproj.CoreCompileInputs.cache
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.exe
+C:\Users\CAMPUSFP\source\repos\FotoViewer\FotoViewer\obj\Debug\FotoViewer.pdb
